@@ -1,0 +1,16 @@
+agents:
+  - name: UserProfileAgent
+    tasks:
+      - collect_user_data
+  - name: RecipeDatabaseAgent
+    tasks:
+      - fetch_recipes
+  - name: FilteringAgent
+    tasks:
+      - filter_recipes
+  - name: RecommendationAgent
+    tasks:
+      - recommend_recipes
+  - name: DeliveryAgent
+    tasks:
+      - deliver_recipes
