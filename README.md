@@ -1,1 +1,1 @@
-# recipe-recommender-ai
+# Recipe Recommender AI
