@@ -57,7 +57,7 @@ Recipe Recommender AI is a multi-agent application that provides personalized re
    - Create a `.env` file in the root directory of the project.
    - Add your API keys in the `.env` file:
 
-   ```plaintext
+   ```dotenv
    TAVILY_API_KEY=your_tavily_api_key_here
    SPOONACULAR_API_KEY=your_spoonacular_api_key_here
    ```
