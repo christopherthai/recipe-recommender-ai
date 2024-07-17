@@ -46,12 +46,10 @@ Recipe Recommender AI is a multi-agent application that provides personalized re
    # On Windows, use `venv\Scripts\activate`
    ```
 
-3. **Create and Activate a Virtual Environment**
+3. **Install Dependencies**
 
    ```bash
-   python -m venv venv
-   source venv/bin/activate
-   # On Windows, use `venv\Scripts\activate`
+   pip install -r requirements.txt
    ```
 
 4. **Set Up Environment Variables**
