@@ -37,6 +37,7 @@ Recipe Recommender AI is a multi-agent application that provides personalized re
    git clone https://github.com/christopherthai/recipe-recommender-ai.git
    cd recipe-recommender-ai
    ```
+
 2. **Create and Activate a Virtual Environment**
 
    ```bash
@@ -44,6 +45,7 @@ Recipe Recommender AI is a multi-agent application that provides personalized re
    source venv/bin/activate
    # On Windows, use `venv\Scripts\activate`
    ```
+
 3. **Create and Activate a Virtual Environment**
 
    ```bash
@@ -67,6 +69,7 @@ Recipe Recommender AI is a multi-agent application that provides personalized re
    ```bash
    python app.py
    ```
+
 ## Usage
 
 1. Open your web browser and navigate to `http://127.0.0.1:5000/`.
@@ -84,4 +87,19 @@ Recipe Recommender AI is a multi-agent application that provides personalized re
 
 ## Contribution
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [christopherthai.nyli@gmail.com](mailto:christopherthai.nyli@gmail.com).
