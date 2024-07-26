@@ -2,7 +2,7 @@
 
 ## Overview
 
-Recipe Recommender AI is a multi-agent application that provides personalized recipe recommendations based on user dietary restrictions, preferences, and available ingredients. The system uses a team of AI agents that collaborate to fetch, filter, and recommend recipes tailored to individual user needs
+Recipe Recommender AI is a multi-agent application that provides personalized recipe recommendations based on user dietary restrictions, preferences, and available ingredients. The system uses a team of AI agents that collaborate to fetch, filter, and recommend recipes tailored to individual user needs.
 
 ## Features
 
